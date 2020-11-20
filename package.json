@@ -1,7 +1,7 @@
 {
-  "name": "paionline",
+  "name": "webangular",
   "version": "1.0.0",
-  "description": "Projekt kursowy Programowania Aplikacji Internetowych",
+  "description": "My and Igor repository for web developing",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
