@@ -22,4 +22,4 @@ httpServer.on('request', function(req, res) {
     fileServer.serve(req, res);
 })
 
-httpServer.listen(8888);
+httpServer.listen(8080);
